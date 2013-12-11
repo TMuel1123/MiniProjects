@@ -110,58 +110,58 @@
 </layers>
 <board>
 <plain>
-<text x="1.905" y="52.07" size="0.8128" layer="21" font="vector">14</text>
-<text x="4.445" y="52.07" size="0.8128" layer="21" font="vector">15</text>
-<text x="6.985" y="52.07" size="0.8128" layer="21" font="vector">16</text>
-<text x="9.525" y="52.07" size="0.8128" layer="21" font="vector">17</text>
-<text x="12.065" y="52.07" size="0.8128" layer="21" font="vector">18</text>
-<text x="14.605" y="52.07" size="0.8128" layer="21" font="vector">19</text>
-<text x="17.145" y="52.07" size="0.8128" layer="21" font="vector">20</text>
-<text x="19.685" y="52.07" size="0.8128" layer="21" font="vector">21</text>
-<text x="23.8125" y="46.6725" size="0.8128" layer="21" font="vector">22</text>
-<text x="23.8125" y="44.1325" size="0.8128" layer="21" font="vector">24</text>
-<text x="23.8125" y="41.5925" size="0.8128" layer="21" font="vector">26</text>
-<text x="23.8125" y="39.0525" size="0.8128" layer="21" font="vector">28</text>
-<text x="23.8125" y="36.5125" size="0.8128" layer="21" font="vector">30</text>
-<text x="23.8125" y="33.9725" size="0.8128" layer="21" font="vector">32</text>
-<text x="23.8125" y="31.4325" size="0.8128" layer="21" font="vector">34</text>
-<text x="23.8125" y="28.8925" size="0.8128" layer="21" font="vector">36</text>
-<text x="23.8125" y="26.3525" size="0.8128" layer="21" font="vector">38</text>
-<text x="23.8125" y="23.8125" size="0.8128" layer="21" font="vector">40</text>
-<text x="23.8125" y="21.2725" size="0.8128" layer="21" font="vector">42</text>
-<text x="23.8125" y="18.7325" size="0.8128" layer="21" font="vector">44</text>
-<text x="23.8125" y="16.1925" size="0.8128" layer="21" font="vector">46</text>
-<text x="23.8125" y="13.6525" size="0.8128" layer="21" font="vector">48</text>
-<text x="23.8125" y="11.1125" size="0.8128" layer="21" font="vector">50</text>
-<text x="23.8125" y="8.5725" size="0.8128" layer="21" font="vector">52</text>
-<text x="6.985" y="0.635" size="0.8128" layer="21" font="vector">A8</text>
-<text x="9.525" y="0.635" size="0.8128" layer="21" font="vector">A9</text>
-<text x="11.7475" y="0.635" size="0.8128" layer="21" font="vector">A10</text>
-<text x="14.2875" y="0.635" size="0.8128" layer="21" font="vector">A11</text>
-<text x="16.8275" y="0.635" size="0.8128" layer="21" font="vector">A12</text>
-<text x="19.3675" y="0.635" size="0.8128" layer="21" font="vector">A13</text>
-<text x="21.9075" y="0.635" size="0.8128" layer="21" font="vector">A14</text>
-<text x="24.4475" y="0.635" size="0.8128" layer="21" font="vector">A15</text>
-<text x="27.94" y="52.07" size="0.8128" layer="21" font="vector">+5V</text>
-<text x="23.1775" y="45.4025" size="0.8128" layer="21" font="vector">23</text>
-<text x="23.1775" y="42.8625" size="0.8128" layer="21" font="vector">25</text>
-<text x="23.1775" y="40.3225" size="0.8128" layer="21" font="vector">27</text>
-<text x="23.1775" y="37.7825" size="0.8128" layer="21" font="vector">29</text>
-<text x="23.1775" y="35.2425" size="0.8128" layer="21" font="vector">31</text>
-<text x="23.1775" y="32.7025" size="0.8128" layer="21" font="vector">33</text>
-<text x="23.1775" y="30.1625" size="0.8128" layer="21" font="vector">35</text>
-<text x="23.1775" y="27.6225" size="0.8128" layer="21" font="vector">37</text>
-<text x="23.1775" y="7.3025" size="0.8128" layer="21" font="vector">53</text>
-<text x="23.1775" y="25.0825" size="0.8128" layer="21" font="vector">39</text>
-<text x="23.1775" y="22.5425" size="0.8128" layer="21" font="vector">41</text>
-<text x="23.1775" y="20.0025" size="0.8128" layer="21" font="vector">43</text>
-<text x="23.1775" y="17.4625" size="0.8128" layer="21" font="vector">45</text>
-<text x="23.1775" y="14.9225" size="0.8128" layer="21" font="vector">47</text>
-<text x="23.1775" y="12.3825" size="0.8128" layer="21" font="vector">49</text>
-<text x="23.1775" y="9.8425" size="0.8128" layer="21" font="vector">51</text>
-<text x="17.78" y="46.355" size="0.8128" layer="21" font="vector">+5V</text>
-<text x="28.2575" y="5.715" size="0.8128" layer="21" font="vector">GND</text>
-<text x="18.0975" y="6.0325" size="0.8128" layer="21" font="vector">GND</text>
+<text x="1.905" y="52.07" size="0.8128" layer="21" font="vector" ratio="12">14</text>
+<text x="4.445" y="52.07" size="0.8128" layer="21" font="vector" ratio="12">15</text>
+<text x="6.985" y="52.07" size="0.8128" layer="21" font="vector" ratio="12">16</text>
+<text x="9.525" y="52.07" size="0.8128" layer="21" font="vector" ratio="12">17</text>
+<text x="12.065" y="52.07" size="0.8128" layer="21" font="vector" ratio="12">18</text>
+<text x="14.605" y="52.07" size="0.8128" layer="21" font="vector" ratio="12">19</text>
+<text x="17.145" y="52.07" size="0.8128" layer="21" font="vector" ratio="12">20</text>
+<text x="19.685" y="52.07" size="0.8128" layer="21" font="vector" ratio="12">21</text>
+<text x="23.8125" y="46.6725" size="0.8128" layer="21" font="vector" ratio="12">22</text>
+<text x="23.8125" y="44.1325" size="0.8128" layer="21" font="vector" ratio="12">24</text>
+<text x="23.8125" y="41.5925" size="0.8128" layer="21" font="vector" ratio="12">26</text>
+<text x="23.8125" y="39.0525" size="0.8128" layer="21" font="vector" ratio="12">28</text>
+<text x="23.8125" y="36.5125" size="0.8128" layer="21" font="vector" ratio="12">30</text>
+<text x="23.8125" y="33.9725" size="0.8128" layer="21" font="vector" ratio="12">32</text>
+<text x="23.8125" y="31.4325" size="0.8128" layer="21" font="vector" ratio="12">34</text>
+<text x="23.8125" y="28.8925" size="0.8128" layer="21" font="vector" ratio="12">36</text>
+<text x="23.8125" y="26.3525" size="0.8128" layer="21" font="vector" ratio="12">38</text>
+<text x="23.8125" y="23.8125" size="0.8128" layer="21" font="vector" ratio="12">40</text>
+<text x="23.8125" y="21.2725" size="0.8128" layer="21" font="vector" ratio="12">42</text>
+<text x="23.8125" y="18.7325" size="0.8128" layer="21" font="vector" ratio="12">44</text>
+<text x="23.8125" y="16.1925" size="0.8128" layer="21" font="vector" ratio="12">46</text>
+<text x="23.8125" y="13.6525" size="0.8128" layer="21" font="vector" ratio="12">48</text>
+<text x="23.8125" y="11.1125" size="0.8128" layer="21" font="vector" ratio="12">50</text>
+<text x="23.8125" y="8.5725" size="0.8128" layer="21" font="vector" ratio="12">52</text>
+<text x="6.985" y="0.635" size="0.8128" layer="21" font="vector" ratio="12">A8</text>
+<text x="9.525" y="0.635" size="0.8128" layer="21" font="vector" ratio="12">A9</text>
+<text x="11.7475" y="0.635" size="0.8128" layer="21" font="vector" ratio="12">A10</text>
+<text x="14.2875" y="0.635" size="0.8128" layer="21" font="vector" ratio="12">A11</text>
+<text x="16.8275" y="0.635" size="0.8128" layer="21" font="vector" ratio="12">A12</text>
+<text x="19.3675" y="0.635" size="0.8128" layer="21" font="vector" ratio="12">A13</text>
+<text x="21.9075" y="0.635" size="0.8128" layer="21" font="vector" ratio="12">A14</text>
+<text x="24.4475" y="0.635" size="0.8128" layer="21" font="vector" ratio="12">A15</text>
+<text x="27.94" y="52.07" size="0.8128" layer="21" font="vector" ratio="12">+5V</text>
+<text x="23.1775" y="45.4025" size="0.8128" layer="21" font="vector" ratio="12">23</text>
+<text x="23.1775" y="42.8625" size="0.8128" layer="21" font="vector" ratio="12">25</text>
+<text x="23.1775" y="40.3225" size="0.8128" layer="21" font="vector" ratio="12">27</text>
+<text x="23.1775" y="37.7825" size="0.8128" layer="21" font="vector" ratio="12">29</text>
+<text x="23.1775" y="35.2425" size="0.8128" layer="21" font="vector" ratio="12">31</text>
+<text x="23.1775" y="32.7025" size="0.8128" layer="21" font="vector" ratio="12">33</text>
+<text x="23.1775" y="30.1625" size="0.8128" layer="21" font="vector" ratio="12">35</text>
+<text x="23.1775" y="27.6225" size="0.8128" layer="21" font="vector" ratio="12">37</text>
+<text x="23.1775" y="7.3025" size="0.8128" layer="21" font="vector" ratio="12">53</text>
+<text x="23.1775" y="25.0825" size="0.8128" layer="21" font="vector" ratio="12">39</text>
+<text x="23.1775" y="22.5425" size="0.8128" layer="21" font="vector" ratio="12">41</text>
+<text x="23.1775" y="20.0025" size="0.8128" layer="21" font="vector" ratio="12">43</text>
+<text x="23.1775" y="17.4625" size="0.8128" layer="21" font="vector" ratio="12">45</text>
+<text x="23.1775" y="14.9225" size="0.8128" layer="21" font="vector" ratio="12">47</text>
+<text x="23.1775" y="12.3825" size="0.8128" layer="21" font="vector" ratio="12">49</text>
+<text x="23.1775" y="9.8425" size="0.8128" layer="21" font="vector" ratio="12">51</text>
+<text x="17.78" y="46.355" size="0.8128" layer="21" font="vector" ratio="12">+5V</text>
+<text x="28.2575" y="5.715" size="0.8128" layer="21" font="vector" ratio="12">GND</text>
+<text x="18.0975" y="6.0325" size="0.8128" layer="21" font="vector" ratio="12">GND</text>
 <wire x1="2.54" y1="50.00625" x2="2.54" y2="49.05375" width="0.254" layer="21"/>
 <wire x1="5.08" y1="50.00625" x2="5.08" y2="49.05375" width="0.254" layer="21"/>
 <wire x1="7.62" y1="50.00625" x2="7.62" y2="49.05375" width="0.254" layer="21"/>
@@ -181,22 +181,22 @@
 <wire x1="18.415" y1="4.445" x2="19.685" y2="3.175" width="0.254" layer="21"/>
 <wire x1="20.955" y1="4.445" x2="22.225" y2="3.175" width="0.254" layer="21"/>
 <text x="33.655" y="36.83" size="1.27" layer="16" font="vector" ratio="12" rot="MR270">MegaMiniProtoShield by TMuel</text>
-<text x="16.98625" y="49.53" size="0.8128" layer="22" font="vector" rot="MR270">SDA</text>
-<text x="19.52625" y="49.53" size="0.8128" layer="22" font="vector" rot="MR270">SCL</text>
-<text x="14.44625" y="49.53" size="0.8128" layer="22" font="vector" rot="MR270">RXD1</text>
-<text x="11.90625" y="49.53" size="0.8128" layer="22" font="vector" rot="MR270">TXD1</text>
-<text x="6.82625" y="49.53" size="0.8128" layer="22" font="vector" rot="MR270">TXD2</text>
-<text x="9.36625" y="49.53" size="0.8128" layer="22" font="vector" rot="MR270">RXD2</text>
-<text x="4.28625" y="49.53" size="0.8128" layer="22" font="vector" rot="MR270">RXD3</text>
-<text x="1.74625" y="49.53" size="0.8128" layer="22" font="vector" rot="MR270">TXD3</text>
-<text x="23.8125" y="11.1125" size="0.8128" layer="22" font="vector" rot="MR180" align="top-left">MISO</text>
-<text x="21.9075" y="9.8425" size="0.8128" layer="22" font="vector" rot="MR180" align="top-left">MISO</text>
-<text x="23.8125" y="8.5725" size="0.8128" layer="22" font="vector" rot="MR180" align="top-left">SCK</text>
-<text x="23.1775" y="7.3025" size="0.8128" layer="22" font="vector" rot="MR180" align="top-left">SS</text>
-<text x="23.495" y="16.1925" size="0.8128" layer="22" font="vector" rot="MR180" align="top-left">PWM</text>
-<text x="22.225" y="17.4625" size="0.8128" layer="22" font="vector" rot="MR180" align="top-left">PWM</text>
-<text x="23.495" y="18.7325" size="0.8128" layer="22" font="vector" rot="MR180" align="top-left">PWM</text>
-<text x="28.2575" y="5.715" size="0.8128" layer="16" font="vector" ratio="12" rot="MR180">REV 1.0</text>
+<text x="16.98625" y="49.53" size="0.8128" layer="22" font="vector" ratio="12" rot="MR270">SDA</text>
+<text x="19.52625" y="49.53" size="0.8128" layer="22" font="vector" ratio="12" rot="MR270">SCL</text>
+<text x="14.44625" y="49.53" size="0.8128" layer="22" font="vector" ratio="12" rot="MR270">RXD1</text>
+<text x="11.90625" y="49.53" size="0.8128" layer="22" font="vector" ratio="12" rot="MR270">TXD1</text>
+<text x="6.82625" y="49.53" size="0.8128" layer="22" font="vector" ratio="12" rot="MR270">TXD2</text>
+<text x="9.36625" y="49.53" size="0.8128" layer="22" font="vector" ratio="12" rot="MR270">RXD2</text>
+<text x="4.28625" y="49.53" size="0.8128" layer="22" font="vector" ratio="12" rot="MR270">RXD3</text>
+<text x="1.74625" y="49.53" size="0.8128" layer="22" font="vector" ratio="12" rot="MR270">TXD3</text>
+<text x="23.8125" y="11.1125" size="0.8128" layer="22" font="vector" ratio="12" rot="MR180" align="top-left">MISO</text>
+<text x="21.9075" y="9.8425" size="0.8128" layer="22" font="vector" ratio="12" rot="MR180" align="top-left">MISO</text>
+<text x="23.8125" y="8.5725" size="0.8128" layer="22" font="vector" ratio="12" rot="MR180" align="top-left">SCK</text>
+<text x="23.1775" y="7.3025" size="0.8128" layer="22" font="vector" ratio="12" rot="MR180" align="top-left">SS</text>
+<text x="23.495" y="16.1925" size="0.8128" layer="22" font="vector" ratio="12" rot="MR180" align="top-left">PWM</text>
+<text x="22.225" y="17.4625" size="0.8128" layer="22" font="vector" ratio="12" rot="MR180" align="top-left">PWM</text>
+<text x="23.495" y="18.7325" size="0.8128" layer="22" font="vector" ratio="12" rot="MR180" align="top-left">PWM</text>
+<text x="28.2575" y="5.715" size="0.8128" layer="16" font="vector" ratio="20" rot="MR180">REV 1.1</text>
 </plain>
 <libraries>
 <library name="arduino">

@@ -12,3 +12,7 @@ This is a shield for the last third of the Arduino Mega2560.
 Revision 1.1
 ------------
 * Made the text more bold on the top and bottom silk screen. Now it has the eagle setting size 32mil ratio 12%. The ratio of 12% seems to be the minimum that can be cleanly printed
+
+Revision 1.2
+------------
+* Fixed a horrible mistake. The holes of all vias on the board where 0.8mm so that pinheaders do not fit through the holes. I've enlarged the drills of the vias for the connection to the Arduino to 1.2mm and all other holes to 1.1mm. I also had to reduce the fontsize to 24mil to make it fit between the vias.

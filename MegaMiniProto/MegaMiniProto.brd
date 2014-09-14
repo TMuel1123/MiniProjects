@@ -190,13 +190,13 @@
 <text x="4.1275" y="49.53" size="0.6096" layer="22" font="vector" ratio="12" rot="MR270">RXD3</text>
 <text x="1.5875" y="49.53" size="0.6096" layer="22" font="vector" ratio="12" rot="MR270">TXD3</text>
 <text x="24.13" y="11.1125" size="0.6096" layer="22" font="vector" ratio="12" rot="MR180" align="top-left">MISO</text>
-<text x="21.9075" y="9.8425" size="0.6096" layer="22" font="vector" ratio="12" rot="MR180" align="top-left">MISO</text>
+<text x="21.9075" y="9.8425" size="0.6096" layer="22" font="vector" ratio="12" rot="MR180" align="top-left">MOSI</text>
 <text x="24.13" y="8.5725" size="0.6096" layer="22" font="vector" ratio="12" rot="MR180" align="top-left">SCK</text>
-<text x="23.1775" y="7.3025" size="0.6096" layer="22" font="vector" ratio="12" rot="MR180" align="top-left">SS</text>
+<text x="22.86" y="7.3025" size="0.6096" layer="22" font="vector" ratio="12" rot="MR180" align="top-left">SS</text>
 <text x="24.13" y="16.1925" size="0.6096" layer="22" font="vector" ratio="12" rot="MR180" align="top-left">PWM</text>
 <text x="22.225" y="17.4625" size="0.6096" layer="22" font="vector" ratio="12" rot="MR180" align="top-left">PWM</text>
 <text x="24.13" y="18.7325" size="0.6096" layer="22" font="vector" ratio="12" rot="MR180" align="top-left">PWM</text>
-<text x="28.2575" y="5.715" size="0.8128" layer="16" font="vector" ratio="20" rot="MR180">REV 1.2</text>
+<text x="28.2575" y="5.715" size="0.8128" layer="16" font="vector" ratio="20" rot="MR180">REV 1.3</text>
 </plain>
 <libraries>
 <library name="arduino">

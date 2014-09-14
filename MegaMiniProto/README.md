@@ -16,3 +16,7 @@ Revision 1.1
 Revision 1.2
 ------------
 * Fixed a horrible mistake. The holes of all vias on the board where 0.8mm so that pinheaders do not fit through the holes. I've enlarged the drills of the vias for the connection to the Arduino to 1.2mm and all other holes to 1.1mm. I also had to reduce the fontsize to 24mil to make it fit between the vias.
+
+Revision 1.3
+------------
+* Fixed bottom silk screen. Pin51 is MOSI not MISO

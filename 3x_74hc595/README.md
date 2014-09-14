@@ -3,7 +3,7 @@
 
 This board contains three 74HC595 shift registers
 
-![Board](https://raw.github.com/TMuel1123/MiniProjects/master/3x_74HC595/img.png)
+![Board](https://raw.github.com/TMuel1123/MiniProjects/master/3x_74hc595/img.png)
 
 * Bread board friendly
 * the boards can be chained together

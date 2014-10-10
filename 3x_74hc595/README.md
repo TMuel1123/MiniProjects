@@ -14,3 +14,7 @@ Revision 1.1
 * Rounded edges of the board outline
 * Added labels for the IO
 
+Revision 1.2
+------------
+* Moved the OUT connector for better daisy chaining
+
